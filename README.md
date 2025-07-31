@@ -11,7 +11,7 @@
 
 ## 🛠 Tools Used
 
-- Tableau
+- Tableau.
 - Washington State EV dataset
 
 ## 📍 Live Dashboard & Profile
